@@ -54,29 +54,29 @@ Open to **Internships & Entry-Level Roles** in cybersecurity.
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=Anish122316&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Anish122316&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anish122316&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anish122316&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish122316&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Anish122316&theme=radical&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anish122316&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Anish122316&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
 ## 📊 GitHub Contributions
-![Anish's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anish122316&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anish122316&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anish122316&limit=5&theme=prussian&combine_all_yearly_contributions=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Anish122316&limit=5&theme=prussian&combine_all_yearly_contributions=true)
 
 ---
 
